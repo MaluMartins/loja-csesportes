@@ -1,18 +1,18 @@
 export default [
     {
-        title: 'Título do produto',
+        title: 'Camisa Ciclismo',
         description: 'Descrição do produto'
     },
     {
-        title: 'Título do produto',
+        title: 'Bomba de Ar',
         description: 'Descrição do produto'
     },
     {
-        title: 'Título do produto',
+        title: 'Macaquinho Ciclismo',
         description: 'Descrição do produto'
     },
     {
-        title: 'Título do produto',
+        title: 'Top Academia',
         description: 'Descrição do produto'
     },
 ]
