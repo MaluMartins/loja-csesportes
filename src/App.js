@@ -1,23 +1,12 @@
 import React from 'react';
-import data from './components/data';
-import Products from "./components/Products";
+import Data from "./components/Data";
 import "./App.css"
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
   return (
-    <>
-      <div className="container">
-        <h1>Produtos</h1>
-        {data.map(produto => (
-          <Products 
-          key={produto.title}
-          title={produto.title}
-          description={produto.description}
-          />
-        ))}
-      </div>
-    </>
+    <Data />
   );
 }
 
