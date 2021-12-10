@@ -30,6 +30,11 @@ export default function Data() {
                 title="Bomba de ar"
                 description="Bomba para pneu de bicicleta."
                 />
+                <Products 
+                img="https://picsum.photos/318/180"
+                title="Camisa Ciclismo"
+                description="Camisa para pedalar."
+                />
             </div>
         </>
     )
