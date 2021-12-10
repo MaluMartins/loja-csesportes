@@ -2,10 +2,6 @@ body {
     margin: 2rem;
 }
 
-.navbar-brand, .nav-link {
-    color: white!important;
-}
-
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
